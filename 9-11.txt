@@ -1,0 +1,110 @@
+Tawamtinsuyu
+Huaymacapac
+  Atahualpa
+  Huascar
+Llacta/Ayllu
+Yamacomas
+Mita
+
+-----
+
+Inca empire
+  - An early empire with one of the largest territories
+  - Formation of the empire
+    - Chavin (1000-400 BC) -> Moche and Nazca (200 BC - 700 AD) -> Tiahuanaco (500 - 1000 AD; built around lake Titicaca, highland civ) -> Chimu (800 AD - 1400 AD, coastline civ) -> Inca (start 1438)
+  - First Inca emperor descended from deity of the sun (the primary deity)
+  - 1438 beginning of expansion (remember this)
+  - Expansion ended when the Spanish contact
+    - Huaymacapac (emperor ruling Inca died right before Spanish contact)
+      - He has two sons (Atahualpa and Huascar)
+      - His death led to fight for power between sons, fractured the empire
+  - Tawamtimsuyu (land of the 4 parts): The name Incans gave for their own empire
+
+Incan story vs Mesoamerica
+  - Environment
+    - Inca: High altitude, tallest mountains -> impact living and agriculture
+    - Meso: Mountains plateau in central Mexico, easier for agriculture
+    - Agriculture
+      - Inca: Stratified layers that bend around the mountains. Staple is potatoes and maze in certain areas
+        - Terracing
+        - Each community owns a set of lands at different altitudes to grow food
+      - Meso: Uniform since the land is flat. Staple is corn (cultivated in the lowlands).
+  - Organization of the empire
+    - Inca: Spans many latitudes, set up system where everything is highly regulated
+      - Split into 4 parts
+      - Each part, emperor appoints a close member of family to control it
+      - 80 provinces (ruler of each province is a relative of the emperor)
+      - Every step in the hierarchy of power has blood relations with the emperor
+      - Llacta: a local unit (a little bigger than a city)
+        - People are linked by kinship/blood
+        - Ceremonial center, no one lives there, people go for worship (maybe some priests live there)
+        - All of the ayllu live surrounding the center
+        - NOT centralized at all, not urbanized
+    - Meso: Decently de-centralized (as long as they respect central authority, they have autonomy)
+      - Highly urbanized society
+  - Structure of society
+    - Inca:
+      - Nobility
+        - Warriors are under thems
+      - Priest class -> nobility
+      - There isn't a slave class; Stops at the yamacomas class
+      - Commoners/peasants would be between the nobles and the yamacomas
+    - Meso:
+      - Slave under servants
+  - Trade
+    - Inca:
+      - Less of a focus on trade
+    - Meso:
+      - Wealthy farmers who have high statues and conduct lots of trade
+
+Mita
+  - Every male must serve Mita
+    - Assigned a set of land to cultivate as a tribute to the emperor
+  - System that moves people around to different elevations of farms
+  - What people expect in return is that the central state is responsible to take care of them in bad times (drought, war, etc)
+  - Not quite exploitation of the commoners because of this relationship between the common people and the king
+  - Can be seen later with the rise of nation states in South America
+
+Document Discussion
+  - #8 (remember the author)
+    - Force resettlement of the people upon conquest
+      - 6000-7000 families (massive)
+      - Not like Mesoamerica where people move around for tributes
+    - Reasons why people were resettled
+      - Key tool in keeping control from an Incan standpoint
+      - If militias misbehave, Incas will use locals to keep them in check
+      - Integrate uniform language and culture around the country
+      - Foster trade and to move products around
+    - Cultivation of the fields
+      - The state supports the poor
+      - Then the state cultivates land
+      - Then serve the local rule and cultivate the land
+      - The last land to be cultivated is the land of the emperor's
+  - #10
+    - Benevolent perspective of the Incans (written after the conquest)
+      - While #8 has a lesser perspective on the Incans (written during the conquest)
+    - System of roads and warehouses store clothes, food, weapons
+    - War in Inca empire didn't really involve taking prisoners for sacrifices
+      - (if they happened, it was linked to particular deities or bad events)
+      - This is a big difference compared to Meso America
+    - Absense of a written language for Incas
+    - Quipu (string of cords with different knots): Way to keep track of goods moving around, tributes being paid
+      - Essentially an accounting system
+      - Travelers will bring quips with them
+      - Not the same as a language though (another difference b/w Incan and Meso civs)
+    - Summary
+      - Meso is known for writing, calendar, astronomy, pyramids
+      - Incans were known for political organization (centralized system) and complex terracing agricultural system
+
+More documents
+  - Tupi in Brazil
+  - Semi-sedentary
+    - Men - hunting
+    - Women - basic agriculture
+  - Non-sedentary
+    - Men - hunting and warfare
+    - Women gathering and agriculture
+    - Specialization
+  - Warfare was more for competition of resources (pretty necessary)
+  - When European run into non-sedentary group, they start by trading with them (e.g Tupi in Brazil)
+  - When European ran into sedentary group, they either ignore or exterminate them
